@@ -1,5 +1,7 @@
 # Implementing Validation Pipelines with MediatR and Fluent Validation in .NET
 
-This repo is about implementing validation pipelines in a .NET web API using MediatR and Fluent Validation.
+This repo is focused on implementing robust validation pipelines in a .NET web API using MediatR and Fluent Validation.
 
-The code base starts with a traditional approach and progressively improves the implementations. Readers will learn how to set up these tools to enhance their API's validation process, ensuring more robust and maintainable code. This step-by-step guide demonstrates how to integrate MediatR and Fluent Validation effectively, streamlining the validation process in your .NET applications.
+The implementation evolves from a traditional validation approach to a more structured and maintainable solution using MediatR for request handling and Fluent Validation for comprehensive input validation. By integrating these tools, the codebase demonstrates how to create a clean, modular validation process that enhances the reliability and maintainability of your API.
+
+This setup ensures that your .NET applications can efficiently manage complex validation scenarios, leading to more resilient and scalable code.
